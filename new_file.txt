@@ -1,1 +1,3 @@
 import pygame
+
+# escrito el dia 8 desde mi ordenador
